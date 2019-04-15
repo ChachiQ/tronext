@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+
+.pwd
+.vscode
+*.db
+*.zip
+config.js
